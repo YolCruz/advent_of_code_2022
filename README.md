@@ -1,0 +1,1 @@
+This is my attempt at the [Advent of Code 2022](https://adventofcode.com/2022) challenge. I'm using this as an opportunity to learn [Rust](https://www.rust-lang.org/).
